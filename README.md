@@ -11,7 +11,7 @@ https://home.nature.global/home
 こちらのコマンドであなたの家に登録されているNature Remoの家電一覧が取得できます.
 
 ```curl -X GET "https://api.nature.global/1/appliances" -H "authorization: Bearer <Access Token>"```
-そのなかで、操作したい家電のAppliance IDを取得してください.
+<br>そのなかで、操作したい家電のAppliance IDを取得してください.
 ```
 [
     {
