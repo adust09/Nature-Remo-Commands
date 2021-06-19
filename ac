@@ -1,0 +1,5 @@
+#!/bin/sh
+
+curl -X POST "https://api.nature.global/1/appliances/ <Appliance ID>" \
+ -H "Authorization: Bearer <Access Token>" \
+ -d "button=$1"
