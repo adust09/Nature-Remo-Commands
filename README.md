@@ -69,6 +69,7 @@ https://home.nature.global/home
 zshでコマンド名(ファイル名)を打ち込めば動きます
 <br>
 エアコンをオフにした時はこんな感じ
+
 <img width="601" alt="スクリーンショット 2021-06-19 14 23 17" src="https://user-images.githubusercontent.com/47593288/122631887-ff1e0380-d109-11eb-8c3a-adecf28763b9.png">
 
 <br>
