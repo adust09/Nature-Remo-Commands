@@ -1,4 +1,5 @@
 #!/bin/sh
+#<Appliance ID>と<Access Token>は各自で変更してください
 
 curl -X POST "https://api.nature.global/1/appliances/ <Appliance ID>" \
  -H "Authorization: Bearer <Access Token>" \
