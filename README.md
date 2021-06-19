@@ -69,3 +69,6 @@ zshでコマンド名(ファイル名)を打ち込めば動きます
 <br>
 
 *引数に注意
+
+# 動作確認
+Nature Remo  2nd Generation（Remo-1W2）
