@@ -49,16 +49,16 @@ https://home.nature.global/home
 取得したアクセストークンとAppliance IDを任意のコマンドファイルのなかにコピペしてください
 
 # zshへの設定方法
-①自作コマンドを配置するフォルダを作る
-```mkdir ~/mycommands```
-②フォルダまでのパスを通す
-```export PATH=$HOME/mycommands:$PATH```
-③.zshrcの変更を反映させる
-```source ~/.zshrc```
-④mycommands配下にコマンドファイルを配置する
+①自作コマンドを配置するフォルダを作る<br>
+```mkdir ~/mycommands```<br>
+②フォルダまでのパスを通す<br>
+```export PATH=$HOME/mycommands:$PATH```<br>
+③.zshrcの変更を反映させる<br>
+```source ~/.zshrc```<br>
+④mycommands配下にコマンドファイルを配置する<br>
 
-⑤コマンドファイルの権限を設定する
-```sudo chmod 755 ~/mycommands/<ファイル名>```
+⑤コマンドファイルの権限を設定する<br>
+```sudo chmod 755 ~/mycommands/<ファイル名>```<br>
 
 # 呼び出し方法
 zshでコマンド名(ファイル名)を打ち込めば動きます
