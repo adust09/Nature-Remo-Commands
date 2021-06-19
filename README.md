@@ -51,14 +51,19 @@ https://home.nature.global/home
 # zshへの設定方法
 ①自作コマンドを配置するフォルダを作る<br>
 ```mkdir ~/mycommands```<br>
+<br>
 ②フォルダまでのパスを通す<br>
 ```export PATH=$HOME/mycommands:$PATH```<br>
+<br>
 ③.zshrcの変更を反映させる<br>
 ```source ~/.zshrc```<br>
+<br>
 ④mycommands配下にコマンドファイルを配置する<br>
+<br>
 
 ⑤コマンドファイルの権限を設定する<br>
 ```sudo chmod 755 ~/mycommands/<ファイル名>```<br>
+<br>
 
 # 呼び出し方法
 zshでコマンド名(ファイル名)を打ち込めば動きます
